@@ -9,9 +9,9 @@
 #include "OW.h"
 #include "application.h"
 #include "inttypes.h"
-#include "defs.h" 
+//#include "defs.h" 
 
-
+#define _maxSensorsPerBus 6
 #define DALLASTEMPLIBVERSION "3.7.2"
 
 // This library is free software; you can redistribute it and/or
