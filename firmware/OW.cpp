@@ -108,7 +108,7 @@ sample code bearing this copyright.
 */
 
 //#include "ow.h"
-#include "ow.h"
+#include "OW.h"
 #include "application.h"
 
 OneWire::OneWire(uint16_t pin){
